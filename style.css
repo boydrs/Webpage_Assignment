@@ -1,0 +1,38 @@
+/* Ryan Boyd. 10/12/24. Changing background color, heading font and color, font size */
+body {
+  background-color: rgb(189,227,245);
+}
+h1 {
+ font-family: "Helvetica", Arial, sans-serif;
+ color: #d17030;
+}
+p {
+font-family: "Helvetica", Arial, sans-serif;
+color: #0c1839;
+font-size: 12pt
+}
+ul {
+font-family: "Helvetica", Arial, sans-serif;
+color: #0c1839;
+font-size: 12pt
+}
+a {
+font-family: "Helvetica", Arial, sans-serif;
+color: #0c1839;
+font-size: 12pt
+}
+/* Margain */
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+/* Center h1 */
+h1 {
+  text-align: center;
+}
+/* Drop shadow on images */
+img {
+  box-shadow: 4px 4px 10px;
+}
